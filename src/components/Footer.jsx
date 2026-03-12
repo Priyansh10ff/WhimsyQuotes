@@ -8,7 +8,7 @@ export default function Footer() {
         <p className="text-[#a1968d] font-medium">
           Made with lots of <span className="text-red-400">♥</span> and pastel dreams.
         </p>
-        <p className="text-sm text-[#b8b0a9]">© {new Date().getFullYear()} WhimsyQuotes</p>
+        <p className="text-sm text-[#b8b0a9]">© 2026 WhimsyQuotes</p>
       </div>
     </footer>
   );
